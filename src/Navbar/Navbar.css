@@ -1,0 +1,12 @@
+.inp{
+    width: 15rem;
+    outline: none;
+    border: none;
+    padding-left: 45px;
+    font-size: 20px;
+}
+
+.icon{
+    z-index: 100;
+    margin-right: -35px;
+}
